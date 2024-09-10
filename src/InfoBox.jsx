@@ -9,9 +9,9 @@ import WbSunnyIcon  from "@mui/icons-material/WbSunny";
 
 export default function InfoBox({ info }) {
   // const img = "./src/assets/dust.jpg";
-  const hotWeather = './public/assets/hotWeather.jpg';
-  const coldWeather = './public/assets/coldWeather.webp';
-  const rainWeather = './public/assets/rainWeather.jpg';
+  const hotWeather = '/assets/hotWeather.jpg';
+  const coldWeather = '/assets/coldWeather.webp';
+  const rainWeather = '/assets/rainWeather.jpg';
   return (
     <div className="InfoBox">
       <div className="cardContainer">
